@@ -1,0 +1,74 @@
+<html>
+	<head>
+		<!--File name: about
+		Auther: Robbie Wilson
+		
+		to do list:
+		
+		
+		
+		-->
+	<link href="cicr_layout_about.css" rel="stylesheet" />
+	</head>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="Home.html">Home</a></li>
+				<li><a href="Contact.html">Contact</a></li>
+				<li><a href="Book.html">Book</a></li>
+				<li><a href="ColoringPages.html">Coloring Pages</a></li>
+				<li><a href="About.html">About</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<title>About Us</title>
+	
+	<img src="profile.png" id="profile" />
+	
+	<body>
+	
+		<h1>History and Credits</h1>
+
+			<p>SEE I Can Read™ children's books are designed to teach 3 to 6 year olds to read by themselves. The concept was conceived as Cris Lindsey, 
+			President of Millennium 2000 Publishing Company, was working with his daughter Sarah. He wanted her to be able to read her own mail when he 
+			wrote to her. He created the books to give his daughter as well as other children a sense of independence. The books were created using picture 
+			illustrations to form the sentences, with the actual words written under the pictures so that the child can recognize the pictures and 
+			associate it with the word beneath it.</p>
+
+		<h1>Case Studies</h1>
+
+			<p>This method has proven itself very effective with young children. Once they realize that they can read, by following the picture illustration, 
+			they become so excited and their desire to read, becomes even greater. Now the child can read like big brother or big sister, like mommy and daddy, 
+			which makes that little child feel important and not excluded. Now the child can pick up his or her book, and proceed to read to mommy, daddy, big 
+			brother, or big sister. The child feels good about himself, and confident. This confidence generally carries on to other task they soon encounter 
+			in their everyday adventures in life. It gives the children the desire to excel in all they attempt to do in their struggle to seek out their 
+			independence.</p>
+
+		<h1>Credits and Special Thanks</h1>
+
+			<p>DR. JUDY AMICK — Cris Lindsey's mentor. She encouraged him to better himself, and to never settle for second best. Dr. Amick believed in Cris 
+			and been very supportive of his works. He worked with Dr. Amick in her Montessori schools in Madrid, Spain, and she also owned four Montessori 
+			schools in Virginia Beach, VA. Dr. Amick is one of the greatest educators the world has ever known.</p>
+
+			<p>CASSIE PERRY — A personal friend and illustrator. Cassie has made a wonderful contribution to the book series through her illustrations. 
+			The children as well as the adults love her drawings.</p>
+
+			<p>WILHEIMINA LONG — A friend and founder of Youth Matter Inc, Wilheimina assisted with the layout and format of the book series through her 
+			design skills. She is also responsible for furthering the research and development of the books by acting as a representative for Millennium 
+			2000 Publishing Company™. Wilheimina heads the non-profit organization, Youth Matter, Inc., that endorses this project and are actively seeking 
+			grant funds to publish these books to circulate as a youth literary product.</p>
+
+			<p>EVELYN LINDSEY — Cris Lindsey's mother. She encouraged him to become a children's book author. She is a world-renowned educator of God's word 
+			as well as a school teacher.</p>
+
+			<p>SARAH CRISTINE LINDSEY — Cris Lindsey's daughter. Sarah is who Cris wrote his first books for. She is a wonderful loving, and caring princess, 
+			whom he loves dearly.</p>
+	
+	</body>
+	
+	<footer>
+		<img src="cicr.png" id="logo2" />
+	</footer>
+</html>
+
