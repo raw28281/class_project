@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<!--File name: contact
+		Auther: Robbie Wilson
+		
+		to do list:
+		
+		
+		
+		-->
+	<link href="cicr_layout_contact.css" rel="stylesheet" />
+	</head>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="Home.html">Home</a></li>
+				<li><a href="Contact.html">Contact</a></li>
+				<li><a href="Book.html">Book</a></li>
+				<li><a href="ColoringPages.html">Coloring Pages</a></li>
+				<li><a href="About.html">About</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<title>Contact Information</title>
+	
+	<body>
+
+		<article>
+			<p>General emais: <a href="">info@seeicanread.com</a></p>
+
+			<p>Contact the Author, Cris Lindsey, <a href="">@seeicanread.com</a></p>
+
+			<p>Public Relations, <a href="">@seeicanread.com</a></p>
+
+			<p>Place a telephone order, (757) 679-9452.</p>
+
+			<p>Place a email order, <a href="">info@seeicanread.com.</a></p>
+
+			<p>If you need to communicate with us regarding an order, email us at <a href="">info@seeicanread.com</a></p>
+
+			<p>Write to us. Send your correspondence to:</p>
+
+			<p>See I Can Read™ Children's Books</p>
+			<p>c/o Millennium 2000 Publishing Company</p>
+			<p>404 Rock Drive</p>
+			<p>Chesapeake, VA  23323</p>
+		</article>
+	</body>
+	
+	<footer>
+		
+		<img src="cicr.png" id="logo2" />
+		
+	</footer>
+	
+</html>
