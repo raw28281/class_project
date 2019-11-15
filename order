@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<!--File name: order
+		Auther: Robbie Wilson
+		
+		to do list:
+		
+		
+		
+		-->
+	<link href="cicr_layout_order.css" rel="stylesheet" />
+	</head>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="Home.html">Home</a></li>
+				<li><a href="Contact.html">Contact</a></li>
+				<li><a href="Book.html">Book</a></li>
+				<li><a href="ColoringPages.html">Coloring Pages</a></li>
+				<li><a href="About.html">About</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<title>Please fill out order information below</title>
+	
+	<body>
+	
+		<p>"information place holder"</p>
+	
+	</body>
+	
+	<footer>
+		<img src="cicr.png" id="logo2" />
+	</footer>
+</html>
