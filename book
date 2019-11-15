@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<!--File name: book
+		Auther: Robbie Wilson
+		
+		to do list:
+		
+		
+		
+		-->
+	<link href="cicr_layout_book.css" rel="stylesheet" />
+	</head>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="Home.html">Home</a></li>
+				<li><a href="Contact.html">Contact</a></li>
+				<li><a href="Book.html">Book</a></li>
+				<li><a href="ColoringPages.html">Coloring Pages</a></li>
+				<li><a href="About.html">About</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<title>BUY NOW</title>
+	
+	<body>
+	
+		<a href="order.html"><img src="buynow.png" id="buy" /></a>
+	
+	</body>
+	
+	<footer>
+		<img src="cicr.png" id="logo2" />
+	</footer>
+</html>
