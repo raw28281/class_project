@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<!--File name: coloringPages
+		Auther: Robbie Wilson
+		
+		to do list:
+		
+		
+		
+		-->
+	<link href="cicr_layout_coloringPages.css" rel="stylesheet" />
+	</head>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="Home.html">Home</a></li>
+				<li><a href="Contact.html">Contact</a></li>
+				<li><a href="Book.html">Book</a></li>
+				<li><a href="ColoringPages.html">Coloring</a></li>
+				<li><a href="About.html">About</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<title>Coloring Pages</title>
+	
+	<body>
+		<a href="3_a.png"><img src="3_a.png" id="cpage" /></a>
+		<a href="3_b.png"><img src="3_b.png" id="cpage" /></a>
+		<a href="3_c.png"><img src="3_c.png" id="cpage" /></a>
+		<a href="3_d.png"><img src="3_d.png" id="cpage" /></a>
+		<a href="3_e.png"><img src="3_e.png" id="cpage" /></a>
+		<a href="3_f.png"><img src="3_f.png" id="cpage" /></a>
+		<a href="3_g.png"><img src="3_g.png" id="cpage" /></a>
+		<a href="3_h.png"><img src="3_h.png" id="cpage" /></a>
+		<a href="3_i.png"><img src="3_i.png" id="cpage" /></a>
+		<a href="3_j.png"><img src="3_j.png" id="cpage" /></a>
+		<a href="3_k.png"><img src="3_k.png" id="cpage" /></a>
+		<a href="3_l.png"><img src="3_l.png" id="cpage" /></a>
+		<a href="3_m.png"><img src="3_m.png" id="cpage" /></a>
+		<a href="3_n.png"><img src="3_n.png" id="cpage" /></a>
+		<a href="3_o.png"><img src="3_o.png" id="cpage" /></a>
+		<a href="3_p.png"><img src="3_p.png" id="cpage" /></a>
+		<a href="3_q.png"><img src="3_q.png" id="cpage" /></a>
+		<a href="3_r.png"><img src="3_r.png" id="cpage" /></a>
+		<a href="3_s.png"><img src="3_s.png" id="cpage" /></a>
+		<a href="3_t.png"><img src="3_t.png" id="cpage" /></a>
+		<a href="3_u.png"><img src="3_u.png" id="cpage" /></a>
+		<a href="3_v.png"><img src="3_v.png" id="cpage" /></a>
+		<a href="3_w.png"><img src="3_w.png" id="cpage" /></a>
+		<a href="3_x.png"><img src="3_x.png" id="cpage" /></a>
+		<a href="3_y.png"><img src="3_y.png" id="cpage" /></a>
+		<a href="3_z.png"><img src="3_z.png" id="cpage" /></a>
+	
+	</body>
+	
+	<footer>
+		<img src="cicr.png" id="logo2" />
+		<a href="">Facebook</a>
+	</footer>
+</html>
+
