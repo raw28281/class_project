@@ -16,7 +16,7 @@
 				<li><a href="Home.html">Home</a></li>
 				<li><a href="Contact.html">Contact</a></li>
 				<li><a href="Book.html">Book</a></li>
-				<li><a href="ColoringPages.html">Coloring Pages</a></li>
+				<li><a href="ColoringPages.html">Coloring</a></li>
 				<li><a href="About.html">About</a></li>
 			</ul>
 		</nav>
@@ -49,9 +49,8 @@
 	</body>
 	
 	<footer>
-		
 		<img src="cicr.png" id="logo2" />
-		
+		<a href="">Facebook</a>
 	</footer>
 	
 </html>
