@@ -16,7 +16,7 @@
 				<li><a href="Home.html">Home</a></li>
 				<li><a href="Contact.html">Contact</a></li>
 				<li><a href="Book.html">Book</a></li>
-				<li><a href="ColoringPages.html">Coloring Pages</a></li>
+				<li><a href="ColoringPages.html">Coloring</a></li>
 				<li><a href="About.html">About</a></li>
 			</ul>
 		</nav>
@@ -25,7 +25,7 @@
 	<title>See I Can Read</title>
 	
 	<body>
-		<img src="logo2.png" id="logo" />
+		<img src="logo3.png" id="logo" />
 	
 		<p>A wonderful board covered book designed to help young children get 
 		a head start in reading concept. Buy your 5-Volume set today for the 
@@ -36,6 +36,9 @@
 		allowfullscreen></iframe>
 	</body>
 	
-	<img src="cicr.png" id="logo2" />
+	<footer>
+		<img src="cicr.png" id="logo2" />
+		<a href="">Facebook</a>
+	</footer>
 </html>
 
