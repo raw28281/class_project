@@ -29,10 +29,6 @@ nav ul li a {
 	font-size: 2em;
 }
 
-nav ul li a:visited {
-	color: #222;
-}
-
 nav a:hover {
 	background-color: #0B610B;
 }
@@ -57,6 +53,10 @@ img#profile {
 	margin-right: 10%;
 }
 
+body {
+	padding-left: 10%;
+	padding-right: 10%;
+}
 
 h1 {
 	display: block;
@@ -86,6 +86,16 @@ p {
 footer {
 	float: left;
 	width: 100%;
+	padding-top: 2%;
+	background: rgb(155, 0, 0);
+}
+
+a{
+	display: block;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 2em;
+	color: #DBA901;
+	padding-left: 5%;
 }
 
 img#logo2 {
